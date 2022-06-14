@@ -12,26 +12,41 @@ widget1:
   title: "Personal Uses"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: personal_use.jpg
-  text: '**-Driving score**
-Shows how safe of a driver you are. It checks your speed, braking  and acceleration habits against your car model 
-**-Connected cars** 
-Access Internet, send and receive signals, sense the physical environment and interact with other vehicles or entities
-**-Realtime Tracking** 
-Locate your loved ones or make sure your precious car is where it should be
-'
+  text: '
+    **Driving score**<br/>
+    Shows how safe of a driver you are. It checks your speed, braking  and acceleration habits against your car model<br/> 
+    **Connected cars**<br/> 
+    Access Internet, send and receive signals, sense the physical environment and interact with other vehicles or entities<br/>
+    **Realtime Tracking**<br/> 
+    Locate your loved ones or make sure your precious car is where it should be
+  '
 
 widget2:
   title: "Business Uses"
   url: 'http://phlow.github.io/feeling-responsive/info/'
   image: business_use.jpg
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
+  text: '
+    **Fleet Management**<br/>
+    View & track your assets in real time, enable alerts for mainternance etc<br/> 
+    **Optimise Fuel Usage**<br/> 
+    Track vehicle usage and routes, improve accountability<br/>
+    **Occupational Safety**<br/> 
+    Prevent overworking and optimise workloads
+  '
 
 
 widget3:
   title: "Enterprise Uses"
   url: 'https://github.com/Phlow/feeling-responsive'
   image: enterprise_use.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. The code is well-documented and explains you how it works.'
+  text: '
+    **Consumer services, with revenue sharing**<br/>
+    Reduce risks and costs, reward better behaviour<br/> 
+    **Make them Smart**<br/> 
+    Connected car packages, premium service<br/>
+    **Digital Marketplace**<br/> 
+    Integrate with technology parters and other business
+  '
   
 #
 # Use the call for action to show a button on the frontpage
