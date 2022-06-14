@@ -13,9 +13,9 @@ widget1:
   url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: personal_use.jpg
   text: '
-    <br/><i>❖ Driving score</i><br/>
+    <br/><i>❖ Driving Score</i><br/>
     Shows how safe of a driver you are. It checks your speed, braking  and acceleration habits against your car model<br/>     
-    <br/><i>❖ Connected cars</i><br/> 
+    <br/><i>❖ Connected Cars</i><br/> 
     Access Internet, send and receive signals, sense the physical environment and interact with other vehicles or entities<br/>   
     <br/><i>❖ Realtime Tracking</i><br/> 
     Locate your loved ones or precious car, have peace of mind
