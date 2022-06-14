@@ -12,14 +12,14 @@ widget1:
   title: "For You"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: personal_use.jpg
-  text: '
+  text: 
     **Driving score**<br/>
     Shows how safe of a driver you are. It checks your speed, braking  and acceleration habits against your car model<br/> 
     **Connected cars**<br/> 
     Access Internet, send and receive signals, sense the physical environment and interact with other vehicles or entities<br/>
     **Realtime Tracking**<br/> 
     Locate your loved ones or make sure your precious car is where it should be
-  '
+  
 
 widget2:
   title: "For your Business"
