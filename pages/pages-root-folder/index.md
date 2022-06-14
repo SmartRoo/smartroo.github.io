@@ -12,10 +12,13 @@ widget1:
   title: "Personal Uses"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: personal_use.jpg
-  text: 'Driving score
-Shows you how safe of a driver you are. It checks your speed, braking  and acceleration habits against  your car model 
-Connected cars 
-Access Internet and a variety of sensors, and thus able to send and receive signals, sense the physical environment around them, and interact with other vehicles or entities.'
+  text: '**-Driving score**
+Shows how safe of a driver you are. It checks your speed, braking  and acceleration habits against your car model 
+**-Connected cars** 
+Access Internet, send and receive signals, sense the physical environment and interact with other vehicles or entities
+**-Realtime Tracking** 
+Locate your loved ones or make sure your precious car is where it should be
+'
 
 widget2:
   title: "Business Uses"
