@@ -9,7 +9,7 @@ header:
   image_fullwidth: header_splash.jpg
   
 widget1:
-  title: "Personal Uses"
+  title: "For You"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: personal_use.jpg
   text: '
@@ -22,7 +22,7 @@ widget1:
   '
 
 widget2:
-  title: "Business Uses"
+  title: "For your Business"
   url: 'http://phlow.github.io/feeling-responsive/info/'
   image: business_use.jpg
   text: '
@@ -36,7 +36,7 @@ widget2:
 
 
 widget3:
-  title: "Enterprise Uses"
+  title: "For your Enterprise"
   url: 'https://github.com/Phlow/feeling-responsive'
   image: enterprise_use.jpg
   text: '
