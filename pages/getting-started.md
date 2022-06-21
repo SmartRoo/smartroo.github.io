@@ -9,7 +9,7 @@ header:
 permalink           : "/getting-started/"
 ---
 1. Contact us at this [link][1] to onboard as a beta user
-1. We will send you the SmartDriver device to plugin to your vehicle's [OBD port][2] .
+1. We will send you the SmartDriver device to plugin to your vehicle's <a href="https://www.carmd.com/obd-port-location" target="_blank">OBD port</a>.
 1. Add your device to your SmartDriver profile
 1. Start Driving
 1. Your trips and score will soon appear in SmartDriver App/Dashboard
@@ -21,4 +21,3 @@ permalink           : "/getting-started/"
 
 
  [1]: {{ site.url }}{{ site.baseurl }}/contact/
- [2]: https://www.carmd.com/obd-port-location
