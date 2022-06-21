@@ -59,7 +59,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
+  url: {{ site.url }}{{ site.baseurl }}/contact/
   text: Inform me about new updates and features ›
   style: alert
 
