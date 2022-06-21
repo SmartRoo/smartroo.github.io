@@ -1,9 +1,13 @@
 ---
 layout              : page
-title               : "Contact"
-meta_title          : "Contact and use our contact form"
-subheadline         : "Contact Form"
-teaser              : "Get in touch with me? Use the contact form."
+title               : "Contact Us"
+meta_title          : "We can't wait to hear from you!"
+subheadline         : "Interested?"
+teaser              : "Excited about SmartDriver? Get in touch with us Today!"
 permalink           : "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use the free version of [Wufoo](http://www.wufoo.com/)
+<iframe 
+        src="https://docs.google.com/forms/d/e/1FAIpQLScctGRZL2qCQlKB3kQvS2n1ILgnqGSLWUuSF-OTC4oIsqy1RQ/viewform?embedded=true" 
+        width="640" height="844" frameborder="0" marginheight="0" marginwidth="0">
+          Loading…
+</iframe>
