@@ -1,25 +1,24 @@
 ---
 layout              : page
 show_meta           : false
-title               : "Getting Started in 10 Steps"
-subheadline         : "A Step-by-Step Guide"
-teaser              : "This step-by-step guide helps you to customize Feeling Responsive to your needs."
+title               : "Getting Started with SmartDriver"
+subheadline         : "Quick Start Guide"
+teaser              : "This step-by-step guide helps you to start your exciting journey as a <b>Smart Driver!</b>"
 header:
    image_fullwidth  : "header_homepage_13.jpg"
 permalink           : "/getting-started/"
 ---
-1. Open `_config.yml` and work it through, it's well documented.
-1. Add your own `logo.png` to `/assets/img/`.
-1. Add your own social media links and open `_data/socialmedia.yml`.
-1. Open `_sass/_01_settings_colors.scss` and adjust the the colors to your taste.
-1. Ccustomize your navigation and open `_data/navigation.yml`.
-1. Translate this theme and open `_data/language.yml`.
-1. Change the links in the footer and open `_data/services.yml` and `_data/network.yml`.
-1. Open `_data/authors.yml` and edit author information and set default author in `config.yml`.
-1. Make it yours and add your own content.
-1. [Read the documentation][1] to check out all features of *Feeling Responsive*.
-
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Check out the documentation for all the tricks ›</a>
+1. Contact us at this [link][1] to onboard as a beta user
+1. We will send you the SmartDriver device to plugin to your vehicle's [OBD port][2] .
+1. Add your device to your SmartDriver profile
+1. Start Driving
+1. Your trips and score will soon appear in SmartDriver App/Dashboard
+1. Improve your driving based on the score and feedback
+1. Unlock offers and discounts with your score!
 
 
- [1]: {{ site.url }}{{ site.baseurl }}/documentation/
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/contact/">Contact us Today!</a>
+
+
+ [1]: {{ site.url }}{{ site.baseurl }}/contact/
+ [2]: https://www.carmd.com/obd-port-location
