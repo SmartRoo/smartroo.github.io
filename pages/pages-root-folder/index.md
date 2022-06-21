@@ -10,7 +10,7 @@ header:
   
 widget1:
   title: "For You"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  #url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: personal_use.jpg
   text: '
     <br/><i>❖ Driving Score</i><br/>
@@ -23,7 +23,7 @@ widget1:
 
 widget2:
   title: "For your Business"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
+  #url: 'http://phlow.github.io/feeling-responsive/info/'
   image: business_use.jpg
   text: '
     <br/><i>❖ Fleet Management</i><br/>
@@ -37,7 +37,7 @@ widget2:
 
 widget3:
   title: "For your Enterprise"
-  url: 'https://github.com/Phlow/feeling-responsive'
+  #url: 'https://github.com/Phlow/feeling-responsive'
   image: enterprise_use.jpg
   text: '
     <br/><i>❖ Consumer Services & Revenue Sharing</i><br/>
@@ -59,7 +59,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: {{ site.url }}{{ site.baseurl }}/contact/
+  url: "{{ site.url }}{{ site.baseurl }}/contact/"
   text: Inform me about new updates and features ›
   style: alert
 
