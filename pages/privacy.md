@@ -7,12 +7,12 @@ header:
     image_fullwidth: "header_drop.jpg"
 ---
 
-## Overview
+#### Overview
 
 We collect as little personal data as possible, and we don’t track you. In this policy, you can read how we collect and use your information. It also describes how we use cookies.
 
 
-## How we collect and use information
+#### How we collect and use information
 
 We collect and use information in order to provide you the services of SmartRoo. Unless stated otherwise, we do not process or store your IP address or any other personally identifiable information.
 
@@ -38,7 +38,8 @@ As you can tell by the list above, we collect very limited information. Of this 
 
 We may revise this policy from time to time. The changes will not be retroactive, and the most current version of this policy will govern our relationship with you. By continuing to access or use SmartRoo after those revisions become effective, you agree to the revised policy.
 
-If you have any questions or feedback regarding this privacy policy, you may contact us.
+If you have any questions or feedback regarding this privacy policy, you may [contact us]({{ site.url }}{{ site.baseurl }}/contact/) 
+.
 
 Last updated: 2022-06-22
 
